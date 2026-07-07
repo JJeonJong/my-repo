@@ -2,11 +2,8 @@ Third line
 
 hello
 hello
-<<<<<<< HEAD
 wlqdprkwk
 dksdjflcvs
 sdfhewocks
 soefhewoi
-=======
 sdkfseofjcsldsl
->>>>>>> 8f693c7 (update demo.txt)
